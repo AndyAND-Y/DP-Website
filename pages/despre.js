@@ -21,7 +21,7 @@ export default function NamePage() {
 
                             <Text fontSize={"2xl"} color={blue}> Acest material pe langa faptul ca reprezinta subiectul atestatului, doreste sa vina in ajutorul elevilor care doresc sa afle mai multe despre tehnica in cauza. </Text>
 
-                            <Text fontSize={"2xl"} color={blue}> Problemele au fost alese in functie de notiunile pe care acestea le prezinta ,cat si dupa cat de des aceastea apar in concursuri. </Text>
+                            <Text fontSize={"2xl"} color={blue}> Problemele au fost alese in functie de notiunile pe care acestea le prezinta ,cat si dupa frecventa lor in concursuri. </Text>
 
                             <Text fontSize={"2xl"} color={blue}> De preferat ar fi ca elevul care citeste acest material sa incerce mai intai sa gaseasca el rezolvari la diferitele probleme si dupa sa consulte materialul. </Text>
 
